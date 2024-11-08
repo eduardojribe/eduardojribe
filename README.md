@@ -8,11 +8,11 @@ Estudando dados e organizando ideias.
 Sou analista sênior com ampla experiência em Excel. Estou iniciando meus estudos em dados e programação. Busco sempre aprimorar meus projetos para oferecer soluções eficientes e criativas.
 
 - 🔭 Atualmente estou trabalhando na Dasa
-- 🌱 Atualmente aprendendo Python
+- 🌱 Pequeno Aprendiz de Python
 - 🤔 Buscando ajuda com Machine Learning e IA
-- 💬 Pergunte-me sobre Excel
+- 💬 Pergunte-me sobre Excel, sei bastante coisa
 - 📫 Como chegar até mim: (https://www.linkedin.com/in/eduardojcribeiro/)
-- ⚡ Curiosidade: aprendiz resolvedor de cubo mágico :D
+- ⚡ Curiosidade: Cube player, resolvedor de cubo mágico :D
 
 
 <!-- Substitua os exemplos acima pelos ícones das ferramentas ou tecnologias que utiliza. -->
